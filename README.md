@@ -1,4 +1,4 @@
 # newworld
 Second repository
 
-Ein ersten selbst erstelltes Repository, ohne jeglichen Anspruch.
+Ein erstes selbst erstelltes Repository, ohne jeglichen Anspruch.
